@@ -1,5 +1,4 @@
 # box-office-prediction
-Cornell ORIE 4741 Course Project
 Song Tang (st883), Wenchang Yang(wy286), Jia Rao (jr2254)
 
 
