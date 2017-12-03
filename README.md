@@ -1,8 +1,9 @@
-# box-office-prediction
+# box-office-gross-prediction
 Song Tang (st883), Wenchang Yang(wy286), Jia Rao (jr2254)
 
+Project in ORIE 4741 - Machine Learning with Big Messy Data, Cornell University
 
 
-Today, people tend to read movie reviews on the websites like Rotten Tomatoes to decide whether one movie is worth going to watch or not. Most likely, the online reviews, especially those coming out during the first week, would influence the box office performances a lot. As the reviews from the first week are the earliest and freshest, we can expect that each of them has effect on the decisions of potential audiences. 
+The decision making process for a person who is planning to see a movie might sound like this: What are movies in theaters now about? How do people rate them on Metacritic or Rotten Tomatoes websites? The person may search on Google for more information before purchasing the ticket. Moviegoers are now more actively exploring different movie options online. 
 
-For the project, we would like to take the basic profile of one movie (i.e. category, studio brand, budget, celebrity effect), along with its first week’s online reviews (i.e. from professional critics and audiences), to construct a model to predict the box office of it. 
+In this project, The objective is to use these information to predict box office performance of the opening weekend prior to its release date. In this way, movie marketers can adjust post-release marketing strategies based on accurate predictions: if the prediction of opening weekend performance is high, they may decide to release the movie in more theaters during the opening weekend in hopes of revenue growth. 
